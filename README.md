@@ -27,7 +27,7 @@ The project focuses on:
 
 ## 🏆 Achievements & Experiences
 
-- Completed **Misk Entrepreneurship School** program with 7 certificates.
+- Completed **Misk Entrepreneurship School** program with 10 certificates.
 - Founder of **Mawhiba Times** school newspaper.
 - Developed digital educational resources and websites.
 - Participated in Artificial Intelligence, innovation, and STEM programs.
